@@ -1,9 +1,1 @@
-*.iml
-.gradle
-/local.properties
-/.idea
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+gradle.properties \n.editorconfig \n.env.example \n.gitlab-ci.yml \nazure-pipelines-release.yml \nazure-pipelines-sdk.yml \nazure-pipelines.yml \nbuild.gradle \ngradle.properties.yml \ngradlew \ngradlew.bat \nsettings.gradle \nbuild-pipelines.yml'
